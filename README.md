@@ -3,12 +3,6 @@
 - 🔭 Working with Suport Anlayst
 - 🌱 Learning React and Typescript
 
-<div>
-  <a href="https://marcosmoreira.dev.br">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPotato&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20px"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPotato&layout=compact&langs_count=7&theme=radical&border_radius=20px"/>
-  </a>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
