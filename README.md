@@ -1,6 +1,6 @@
 ### ✌ Its me, Marcos....
 
-- 🔭 I'm fulstack web devoleper with react and nodejs
+- 🔭 I'm fullstack web devoleper with react and nodejs
 - 🌱 Learning React and Typescript
 
 <div style="display: inline_block"><br>
