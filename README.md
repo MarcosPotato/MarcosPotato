@@ -1,7 +1,11 @@
 ### ✌ Its me, Marcos....
 
 - 🔭 I'm fullstack web devoleper with react and nodejs
-- 🌱 Learning React and Typescript
+- 🚀 Mastering web technologies with React and nodejs
+- 👨‍🎓 Graduated in Computer Science
+- 🖥️ Working with React
+
+I seek more and more to seek knowledge in the programming area and improve a little every day.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
