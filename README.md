@@ -24,7 +24,7 @@ I seek more and more to seek knowledge in the programming area and improve a lit
   <a href="https://github.com/MarcosPotato" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:marquinhos2725@hotmail.com">
+  <a href="mailto:devmmoreira@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/moreira-dev/" target="_blank">
