@@ -3,7 +3,8 @@
 - 🔭 I'm fullstack web devoleper with react and nodejs
 - 🚀 Mastering web technologies with React and nodejs
 - 👨‍🎓 Graduated in Computer Science
-- 🖥️ Working with React
+- 👨‍🎓 Postgraduate in Software Architecture
+- 🖥️ Working with Next and Node
 
 I seek more and more to seek knowledge in the programming area and improve a little every day.
 
